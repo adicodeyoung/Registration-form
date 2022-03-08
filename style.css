@@ -1,0 +1,28 @@
+body{
+background-image: url("https://images.freeimages.com/images/small-previews/d56/stucco-texture-14-1557709.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+} 
+h1{
+    color: rgb(0, 0, 0);
+    font-family: cursive; font-size: larger;
+     font-weight: bold; 
+     text-decoration-color: darkslateblue ;
+     text-decoration-style: wavy;
+     text-decoration-line: underline;
+     
+}
+input{ 
+    color:black;
+    font-family: cursive;
+    font-size: medium;
+
+
+
+}
+label{
+    color:black;
+    font-family: cursive;
+    font-size: large;
+    
+}
